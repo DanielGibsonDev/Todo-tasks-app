@@ -1,6 +1,6 @@
 # Todo App - Daniel Gibson - Frontend Mentor Challenge
 
-![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Todo app coding challenge](./src/images/todo-web-app-light.png)
 
 Features of the app:
 
