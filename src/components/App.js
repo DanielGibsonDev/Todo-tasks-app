@@ -16,7 +16,7 @@ const App = () => {
     const storedTodos = JSON.parse(localStorage.getItem("todos"));
     storedTodos && setTodos(storedTodos);
 
-    if (!storedTodos.length) {
+    if (!storedTodos) {
       setTodos([
         {
           todo: "Walk the dog",
